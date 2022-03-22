@@ -1,12 +1,5 @@
 package org.kiot.student;
-
 import java.util.Scanner;
-
-/**
- *	Student class performs student operations
- *	@version 04/03/2022
- *  @author praveen kandhan
- */
 public class Student {
 	Scanner scanner = new Scanner(System.in);
 	public boolean checkLoanEligibilty() {
